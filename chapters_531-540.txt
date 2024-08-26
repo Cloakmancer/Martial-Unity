@@ -1,0 +1,778 @@
+Chapter 531 Range
+
+
+
+
+
+('Well, what else is my Martial Art lacking at the moment, as far as fundamentals go?') Rui wondered.
+
+Well, that was an easy question to answer. This wasn't quite like the later days of his Apprentice times when he had so many Martial Art techniques that it was exceedingly difficult to find a technique that wasn't redundant.
+
+Now he had returned back to stage one, in a way, where he once more needed to fill the gaps in his Martial Art like he already had once upon a time.
+
+('The only difference is the difficulty of this task is exponentially more difficult than it was before.') Rui sighed, yet he couldn't suppress the mild grin on his face no matter how hard he tried.
+
+His attention returned back to the matter at hand as he pondered through what his Martial Art needed and could use.
+
+('Lack of range is definitely one thing to consider.') Rui nodded.F0lloww new 𝒄hapters at nov/(e)l/bin/(.)com
+
+When he was a Martial Apprentice, he had mastered the Tempestual Ripple technique, which allowed him to launch attacks a good distance away by manipulating the air into a dense ball which he then launched with a strike.
+
+('How on Earth am I going to create a long-range technique from scratch?') Rui sighed.
+
+The sheer difficulty of the task made it amply clear why the population of Martial Artists decreased across higher Realms.
+
+('If it was easy, everybody would do it.') Rui chuckled cynically.
+
+In this particular case, Rui suspected that it was probably better to modify existing techniques to suit him and his Martial Art better. It wasn't an absolute necessity that every technique he ended up mastering in the Squire Realm was something entirely brand-new that was purely constructed out of thin air without borrowing from any existing foundation. That was an extremely rare occurrence and a pointlessly impractical condition.
+
+Rui estimated that less than one percent of techniques fell into that category. He didn't need to feel too self-conscious about borrowing from existing foundations as long as whatever he ended up creating satisfied the conditions he had already created for himself; synergetic, original, and unique, all to a certain degree.
+
+('What would it mean for a long-range attack to be synergetic with me and my Martial Art?') Rui asked himself. If he wanted to make one that was synergetic with his Martial Art, he needed to understand what that statement or idea actually meant in a practical sense.
+
+('It would be one that is most effective when paired with my strengths and one that isn't hampered by my shortcomings.') Rui noted.
+
+Of course, this was still merely a very general statement, he needed to derive more specific conditions that the technique would need to fulfill.
+
+('My timing and placement are excellent thanks to the VOID algorithm, Primordial Instinct, and the Mindmirror brain. This what makes my Martial Art powerful and high-grade') Rui noted. ('That means a technique with a great amount of power in exchange for an extremely high requirement for accurate and precise timing and placement would be the ideal.')
+
+This was still a somewhat general statement, but it was something much more concrete to work on. He could take his time deriving more specific conditions until he eventually came up with a technique that suited those conditions perfectly.
+
+('What kind of long-range technique would have an extremely high requirement for accuracy and precision?') Rui wondered.
+
+However, the answer struck him the very instant he finished parsing that thought.
+
+('The super-dee-duper long-range type.')
+
+It sounded like a silly thought, but in reality, there was truth to be found in his words. He thought back to every action movie that featured snipers back on Earth. Sniping from a large distance was always portrayed as an extremely difficult feat that required nearly superhuman levels of accuracy and precision as well as a lot of aid from instruments that measured all kinds of environmental parameters.
+
+Of course, Rui wasn't a moron, far from it. He was aware that action movies were nothing short of fiction. However, whatever he knew about marksmanship and sniping, it was at least close to the truth. The details didn't matter.
+
+If one further extended that thought, there were even more extreme examples like an intercontinental ballistic missile. The sheer calculations that were performed by the launch and propulsion systems were so incredibly much that they surpassed human cognition. Not even Rui dared to think that he could perform the necessary calculations in the necessary amount of time in order for a successful launch and hit.
+
+Not yet, at least.
+
+('My technique is going to be closer to the sniper analogy than an intercontinental ballistic missile.') Rui chuckled. At the Squire Realm, at least, he had no fathomable way of creating a technique rivaling missiles.
+
+If he could find a way to tremendously increase the accuracy and longevity of his long-range attack at the cost of extremely high demand for accuracy and precision, then it would be worth considering without any shred of a doubt.
+
+('Just how unbelievable will my long-range attacks become if I actually succeed?') Rui wondered as he clenched his fist, trying to contain the sheer amount of excitement he felt at the prospect. He began envisioning grand visions of him sniping away targets from unbelievably great distances.
+
+He chalked out the plan a bit more as he considered various possibilities. He still hadn't decided on the nature of the long-range technique. It could be based on shockwaves, but it could also be based on other projectile systems. Hell, even lifting up a rock and throwing it could technically be considered a technique.
+
+('I should probably stick to wind-based techniques. I already have a pretty good understanding of them thanks to all my experience with Tempestual Ripple. I ought to adapt it to the squire Realm while also modifying it so that it suits all of my needs.
+
+The Tempestual Ripple was a somewhat generic, albeit powerful, technique centered around wind-based principles. What he intended to create, on the other hand, was something that wasn't necessarily more powerful in general, but something that was more powerful if it was in the hands of Rui.
+
+
+
+Chapter 532 Defense
+
+
+
+
+
+After Rui fleshed out the requirements and objectives of his second technique development project, he put it aside for the time being. He would need to do more research before he could flesh out both of his projects any further.
+
+('I should give the projects names if I'm going to have more than one.') Rui shrugged. ('For the piercing technique, I should call it the... the Severer Project. The long-range technique project will be called... the Sniper Project.') Rui nodded. ('Both of these technique projects are centered around offensive techniques, I should probably develop a defensive project as well.')
+
+However, deriving a defensive project was easier said than done. He needed to come up with a concept of a technique that was extremely potent with the cost of being very demanding on the accuracy of timing and placement of the execution of said technique.
+
+('Well, for starters, it would have to be an active defense.') Rui noted.
+
+Only active defense techniques were contingent on the execution of said technique, a passive technique was not particularly executable and thus would not improve based on parameters such as accuracy of execution.
+
+('Inner Divergence is contingent on timing and placement.') Rui remembered. It was part of why his defense was that good. However, Rui wondered whether he could develop a technique even better and more synergetic with him than that.
+
+('What kind of principles and mechanisms would end up requiring such a high degree of accuracy in timing and placement?') Rui wondered.
+
+He could think of a few.
+
+('What if I seek to create a defensive technique that... aims to completely negate any and all impacts?') Rui wondered, absorbed in his train of thought.
+
+Such a technique would be demonstrably overpowered. The only question was whether it was realistic or even plausible in the first place.
+
+('Let me dig into the fundamentals. What is an impact and why does it inflict damage?') He asked himself, rehashing basic collision mechanics and kinematics.
+
+An impact was simply a collision between two objects where an exchange of energy occurs. The kinetic energies of the two objects get converted into damage or kinetic energy.
+
+('My goal is to avoid the former; letting the kinetic energy of an object colliding with me get turned into damage.') Rui reiterated.
+
+Instead of letting the kinetic energy of an object hitting him get converted into damage, he would rather the second option occur; where it gets converted into kinetic energy. In classical mechanics, this was known as an elastic collision, a collision where two objects clashing into each other do not inflict damage, and the kinetic energy does not get converted into damage but remains as kinetic energy.
+
+An example of this would be two bouncy balls hitting each other. They did not damage each other, instead, they simply bounced away from each other. This was very different from two balls made out of glass that would simply break each other into pieces.
+
+('Following that analogy, won't get sent flying away if I try to essentially turn myself into a bouncy ball?') Rui wondered with a confused expression. Bouncy rubber balls were notorious for being extremely crazy and hard to control. Just the slightest clash against them would launch them into a frenzy.
+
+('It's similar to my previous opponent, except he was quite literally a bouncy ball, where I am trying to figuratively or effectively be one.')
+
+Rui did not want to create a technique that would send him flying far away every time he blocked an attack, like a bouncy ball. This was the issue with trying to convert the kinetic energy that hit him into the kinetic energy of his own body rather than damage. Kinetic energy meant movement. Too much movement. He would not be able to even stand in one place if he got hit. It was too impractical.
+
+('What if I try to get rid of my kinetic energy as soon as I receive it from my opponent?') Rui wondered. If he could get rid of the kinetic energy in his body, that was gained from an attack, immediately after his body gains it, then he would be able to stay in one place.
+
+('So basically. My opponent hits me, I convert his attack's kinetic energy into the kinetic energy of my own in an elastic collision like a bouncy rubber ball with zero damage to me, and immediately after that I get rid of the kinetic energy, and then I'm safe?') Rui scratched his head.
+
+Even he had to admit, this sounded like an absolutely crazy technique. He wasn't even sure if it was physically possible.
+
+For example, how would he be able to make all collisions perfectly elastic? This alone was a difficult conundrum. In fact, back on Earth, absolutely perfect elastic collisions with one hundred percent elasticity were said to be practically impossible. Even if he didn't need to be one hundred percent, it was still something that would be extraordinarily hard to accomplish.
+
+Furthermore, the second challenge to his proposed technique was how on Earth was he supposed to magically get rid of the absorbed kinetic energy in his body instantly on the spot? That was also something that seemed like it defied the principles of kinematics.
+
+"Hmmm..." Rui pondered the idea a bit as he considered the possibilities available at hand. The second part of the problem was definitely more difficult than the first problem. For the first problem, he already had a potential solution.
+
+('Elastic Shift... might help.') Rui recalled his very first Apprentice-level defense technique that he had mastered many years ago. It was an active defensive technique that allowed him to hamper impacts by increasing the distance over which the impact occurred. It was similar to how baseball players caught baseballs by moving their hands along with the ball while catching them. It also made collisions more elastic, and thus there was potential that the technique could end up solving part of the problems that stood in Rui's way in the construction of his ambitious project.
+
+"To think that paltry foundational technique I learned a long time ago would end up helping me create what will probably be the most impressive defensive technique I've learned this far."Finnd 𝒏ew chapters on n𝒐ve/lbi𝒏(.)com
+
+
+
+Chapter 533 Correlation
+
+
+
+
+
+"Project Bounce." Rui nodded. It was as good a name as any.VIssịT n0(v)eL/b(i)(n).𝘤𝑜𝓂 for the best novel reading experience
+
+While Rui had other ideas, he decided to stop at three projects. In fact, three was pushing it, but Rui wanted to gauge how difficult the process of developing his own techniques was. He could learn more about the challenges of developing his own techniques if he had a larger sample base to judge that from.
+
+Besides, he didn't think that he would be necessarily finishing these projects soon. He didn't think it would be that easy. Martial Squires didn't normally break through to the Senior Realm in the span of a few years. Rui was prepared to persevere for as long as needed, though he wished to speed through the journey as much as possible.
+
+('Project Severer, Project Sniper, and Project Bounce.') Rui nodded.
+
+He got up, stretching before skywalking back to the Orphanage. The sun was setting, after all.
+
+('Julian will have been back by now.')
+
+He intended to inquire about the viability of his projects to Julian. While he didn't think his brother would be able to magically provide him with the solutions to his problem, there was a good chance that he would at least be able to point him in the right, or at least helpful, directions.
+
+Once he arrived at the Orphanage, he spotted Mana and Max sparring with their Apprentice instructor. He quietly avoided their field of vision, not wanting to interrupt their training. Still, he could see that they were making an impressive amount of progress on that front.
+
+
+
+
+
+('As for whether it will be enough to pass the entrance exam...') Rui sighed.
+
+He couldn't say. For one, asides from the first round, the Martial entrance exam was ever-changing so that no specific targeted training could be used to allow students to pass the test even if they were otherwise undesirable.
+
+They would have to rely purely on their own prowess if they wanted to pass the entrance exam.
+
+Rui put the matter aside once he entered the Orphanage.
+
+"Big brother Rui!"
+
+"You're back!"
+
+Several children flooded him once he returned, putting a smile on his face. Rui was a bit of a celebrity to them as the only Martial Artist in the Orphanage. He especially earned a lot of appreciation from the Orphanage ever since he generously donated substantial chunks of income to help with the maintenance and expansion of the Orphanage.
+
+
+
+
+
+The Orphanage had welcomed some more young toddlers into the family who had also developed a strong attachment to him. Thankfully, it wasn't long before they returned back to their meals at the insistence of the caretakers who were ensuring they ate their meals.
+
+Ever since he had been living in the Orphanage, his returning was no longer a fuss like it was when he visited the Orphanage only once in a while when he lived in the Martial Academy.
+
+[You free? Got something to talk about.]
+
+Rui sent Julian a message.
+
+Julian did not like being disturbed when he was working, that was difficult for him to fulfill in a noisy home filled with boisterous children. However, he also hadn't wanted to move out of the house into his own home, leaving his family, thus he had personally funded the construction of an extra wide room with everything he needed at the south end of the Orphanage. He even went as far as to pad the room with sound insulant layers that ensured that the perennial noise in the Orphanage did not affect him when he was working at home.
+
+[I'm not preoccupied, come in.]
+
+Rui read the message, nodding as he headed toward the room.
+
+
+
+
+
+"Sorry to disturb you." Rui apologized pre-emptively as he entered the room, closing the door behind them. "Hope you weren't working."
+
+"Just finished for the day, actually." Julian smiled, taking off his spectacles.
+
+"Good to hear, because you sure look busy," Rui noted the room filled with all kinds of files and documents stacked and arranged in shelves and cupboards, feeling nostalgic. His office used to look like that before the digital revolution in the twenty-first century.
+
+"Well," Julian sighed. "I have been consumed with several research and development projects. It has been getting busy recently."
+
+"Have you been working on anything interesting?" Rui inquired with a raised eyebrow.
+
+"Everything I'm working on is quite interesting." Julian smiled. "I can't reveal some of them because they're classified military-funded projects. But I can tell you about some of the rest if you're interested. I think you will definitely find some of these as fascinating as I do."
+
+"Oh go on." Rui nodded, intrigued. While he was a Martial Artist to his core without a doubt, he had also retained some of the curiosity he had as a scientist in his previous life.
+
+
+
+
+
+"One of the more innocuous projects I'm working on is related to Martial Art. More specifically, it aims to discover all the factors influencing the field of the Martial Path of any given Martial Apprentice." Julian explained. "We've been analyzing the correlation between parameters such as age, sex, physicality, temperament/personality, and that of the field of the Martial Path. We've found some interesting results."
+
+Rui's eyes lit up with intrigue. "Interesting, go on, surely you've found some worthwhile discoveries."
+
+"The research project is still ongoing, but yes, we certainly have. We've observed that, of the aforementioned parameters, all of them have some degree of correlation with what field the Martial Path of a Martial Apprentice is, in different ways." He paused, letting Rui digest that for a moment, before continuing. "Let's begin with age. Age is observed to have a correlation with the sophistication of the Martial Path field. We observe that the older the Martial Apprentice is when they break through, the more sophisticated their Martial Path is."
+
+Rui raised an eyebrow. Julian was right, he most certainly did find this fascinating. The older the Martial Artist was when they broke through, the more sophisticated their Martial Art was. That seemed to indicate that maturity played a great role in shaping what their Martial Path was.
+
+"Interesting..."
+
+"That is really interesting." Rui absorbed the information. "It certainly makes sense intuitively. How exactly are you measuring 'sophistication'? I'm interested in the measuring system you have developed to measure a concept that isn't as straightforward as physical parameters."
+
+
+
+Chapter 534 Revelations
+
+
+
+
+
+"You've correctly identified one of the problems that plagued us the most." Julian nodded, evidently impressed. "Sophistication of Martial Path is indeed a bit of a nebulous concept that is hard to measure. However, we have developed a measurement system centered around several parameters such as how narrow and specific their field is, the complexity of the Martial Path, and frequency of the Martial Path in the Martial Artist population among other things."
+
+"Interesting." Rui nodded. "That isn't necessarily in line with the conventional definition of 'sophistication' though, is it?"
+
+"Perhaps not," Julian admitted. "The conventional definition is a very broad ambiguous term that encompasses a lot of meanings in different contexts. When we use the term, we're referring to how the word is used in the context of Martial Art."
+
+Rui nodded. Although he could argue that even in the context of Martial Art it wasn't a very rigorously defined word, at that point, it was just pointless semantics. What mattered was what the data revealed.
+
+"Anyways, to continue with what I was saying earlier. The studies we conducted revealed that the older the Martial Artist was when they discovered their Martial Path, the more sophisticated their Martial Path was. The prevailing hypothesis is that with age, comes experience, perspective, and maturity, allowing for the maturity of the Martial Path into something beyond a simplistic broad field." Julian told Rui. "We haven't verified this hypothesis yet, unfortunately."
+
+"Interesting." Rui thought deeply. "The most straightforward way to verify this hypothesis would be to create a measurement system for maturity and measure it in a sample base of Martial Artists while controlling for all other factors except for the sophistication of Martial Path. This way you could isolate the correlation between maturity and sophistication."
+
+"Correct." Julian smiled, impressed at Rui's deep understanding of how empirical research functioned. "We're having trouble verifying this hypothesis. After all, it isn't particularly simple to measure the maturity of a Martial Artist. It's hard to even define maturity objectively, and it's even harder to measure it empirically."
+
+Rui nodded. Research in the field of psychology had developed extremely rigorous means of measuring temperament after decades of refining. He didn't think the researchers of the Kandrian Empire were quite there yet, from what he could see.
+
+"Furthermore, Martial Artist psychology cannot necessarily be treated the same as that of normal humans." Rui also added.
+
+"Exactly. Due to that and other reasons, further research has stalled." Julian sighed with resignation.
+
+"No matter. Tell me more about what your research has yielded." Rui coaxed.
+
+"Well, the next variable is actually sex," Julian explained. "Sex does play a role in predicting certain parameters of the Martial Path of the Martial Artist. Firstly, female Martial Artists on average are likelier to have Martial Path revolving around more than one field, while male Martial Artists' Martial Path is likelier to fixate on a single field."
+
+"Interesting..." Rui thought about his own personal experience and observations. "Doesn't seem right, intuitively. A lot of my female Martial Artist friends have fixated on a single field, while several of my male Martial Artist friends focus on multiple fields."
+
+Fae, Milliana, Nel, and Hever were certainly examples of this. Rui was an example of this as well. Rui's Martial Path was meant to encompass every field, theoretically.
+
+"Of course, this is just a very broad trend, far from an absolute rule. There are plenty of male and female Martial Artists who no doubt stray away from the trend." Julian explained.
+
+Rui nodded, he was quite familiar with this concept.
+
+"Several other discoveries we made are more niche things such as the frequency of sensory techniques is higher among female Martial Artists while male Martial Artists tend to have a higher trend towards offensive techniques. Women are also likelier to master and excel at techniques that demand fine motor skills, accuracy, and precision while men are likelier to master and excel at more physically strenuous techniques."
+
+"These make more sense, I guess." Rui nodded. Men had a higher propensity for aggressing violence due to testosterone, while women demonstrated higher sensitivity towards stimuli. Men had greater physicality while women exhibited better hand-eye coordination and delicacy. Men and women had different strengths and affinities biologically which seemed to manifest in the demographics of their Martial Paths.
+
+"A lot of our results were intuitively satisfying and predictable, though they are a bit more mundane," Julian added. "One of our more fascinating findings is actually the correlation between exposure to a field throughout the years of development and the probability that their Martial Path will be relevant to said field."
+
+Rui raised an eyebrow at that, waiting for him to continue.F0lloww new 𝒄hapters at nov/(e)l/bin/(.)com
+
+"One of the more fascinating case studies we conducted is actually the Garath Tribe in the Crimel Forest south of the Kandrian Empire." Julian smiled. "This is a Martial Artist tribe that lives a very primitive lifestyle that characterized our species eons ago, barring the Martial Art part. What is most fascinating is that a huge proportion of the Martial Artists of this tribe have Martial Paths centered around weapons."
+
+"What?" Rui couldn't help but be genuinely surprised at this revelation. "How much, exactly?"
+
+"Around half." Julian chuckled, enjoying Rui's reaction. "Around half had Martial Paths centered around spears, bows, and arrows, elementary blades, etc."
+
+"Half? Half of them were weapon-wielding Martial Artists?"
+
+"Indeed."
+
+"But how...?" Rui recalled his conversation with headmaster Aronian a few years ago. He had told Rui that the reason for the low occurrence of weapon-oriented Martial Paths was that weapons were inherently deviant from the natural application of the human body in combat.
+
+('Was he wrong?') Rui wondered for a moment, before shaking his head. ('No, it makes sense. The reason for the Garath tribe having a higher frequency must be, as Julian said, due to the exposure.')
+
+"So, people's experiences can cause drastically different Martial Paths," Rui concluded.
+
+"That does seem to be the case."
+
+"That raises a lot of questions." Rui hesitantly said as he considered the ways this could be exploited to produce more desirable Martial Paths, as well as the ethics of doing such a thing.
+
+
+
+Chapter 535 Incompatibility
+
+
+
+
+
+"The Martial Path seems to be a product of one's mentality and experiences," Julian explained. "It makes sense that a lifelong exposure to a certain field of conflict would influence the Martial Path of a person."
+
+"I see..." Rui was absorbed in thought. "I bet the Martial community of the Kandrian Empire employs several means to condition their offspring to be likelier to have a Martial Path that is more desired."
+
+"They do." Julian nodded.
+
+"But, it doesn't necessarily always work," Rui concluded, as he thought about Kane. Kane was the heir of the Arrancar family, he no doubt underwent a similar process if such a thing is a common practice in the Martial community. Yet despite that, his Martial Path was the polar opposite of that of his father. Instead of a fearsome aggressive offense, his Martial Path was centered around evasive maneuvering.
+
+"Indeed, it doesn't." Julian nodded agreeing. "Ultimately, there are many variables and factors that influence the Martial Path prior to its discovery. It is most likely impossible to absolutely control what one's Martial Path will be. At most, one can influence across a long period of time."
+
+"Incredible..." Rui murmured as he considered the various matters that instantly came to mind.
+
+Was it possible to employ hypnosis to manipulate one's Martial Path? He wasn't sure if that worked. However, the fact that he had never come across anything of that sort whatsoever in the Martial Academy prior to the discovery of his Martial Path likely suggested that such a practice was not the norm.
+
+
+
+
+
+Julian smiled, seeing Rui deep in thought. "By the way, you said you wanted to speak to me about something. I didn't intend to hijack the conversation to turn it about myself."
+
+"Ah, right." Rui shook his head. He's almost forgotten why he'd wanted to talk to Julian in the first place. "I wanted to get your thoughts on something."
+
+"Go on."VIssịT n0(v)eL/b(i)(n).𝘤𝑜𝓂 for the best novel reading experience
+
+"Well, I recently came up with a few technique development projects. Projects where I focus on developing techniques that are highly suited to me, unlike the techniques of the Martial Union." Rui explained.
+
+"Interesting," Julian muttered in response. "I had heard that this was a common tendency amongst Martial Artists in the higher Realms, though I don't know much about it."
+
+Rui nodded. "It's a necessary measure to continue developing your Martial Art and also to progress to higher Realms."
+
+
+
+
+
+"So, what exactly do you have in mind?" Julian asked with a hint of interest.
+
+"One of the techniques I seek to develop is a piercing technique that incorporates friction and poison into the technique to maximize lethality," Rui told him. "I was wondering what you think about the viability of such a technique, and how I ought to go about it."
+
+"Well, it's an ambitious technique without a doubt." Julian frowned mildly as he considered the matter. "Perhaps a bit too ambitious."
+
+"All of them are." Rui nodded.
+
+"Have you mastered any poison techniques prior to this?" Julian asked.
+
+"No, I haven't."
+
+
+
+
+
+"What about friction-based techniques?"
+
+"Haven't touched that one either."
+
+"Hm. But you have mastered a piercing technique before, correct?"
+
+"Yep. The Stinger served me well while I was a Martial Apprentice."
+
+"Then I'd suggest beginning to assess the viability of your technique by checking how much affinity you have with those two fields. There's no point in proceeding any further until you verify that." Julian explained. "Statistically, Martial Art techniques tend to be more difficult when they incorporate multiple different fields like the kind of technique you're aiming to create. Once you have that down, then you can proceed to flesh out the technique such that they fit within what you can realistically master."
+
+"Those were my thoughts as well." Rui was glad that Julian affirmed his concerns.
+
+
+
+
+
+"Asides from that, be careful with poison. You have a symbiote, which does not inherit whatever poison resistance you possess." Julian warned. "Even if you are compatible with it, your symbiote necessarily isn't. There's a bit of a clash between symbiotic techniques and poison techniques."
+
+"Damn, I hadn't considered that." Rui nodded appreciatively. This made his technique that much more difficult. He didn't want to jeopardize the Mindmirror Brain because it was valuable. He never 'used' it, but it was constantly helping him in the background very silently.
+
+This made for more complications. In fact, it made this project somewhat dangerous. If something went wrong, then he would be screwed big time.
+
+"I'd suggest taking it slow and easy, as well as consulting experts on the matter," Julian told him.
+
+"Will do." Rui nodded as he added that to his list of to-do things. "Any other inputs?"
+
+Julian shrugged softly. "No, unfortunately. I'm not familiar enough with the fields you've specified to be able to offer anymore."
+
+"It's all good." Rui nodded. "You've helped plenty already. Let me tell you more about the remaining two projects I'm working on. Project Sniper is the project centered around developing a long-range offensive technique that uses my strengths to deliver accurate and precise attacks from a great distance away without sacrificing too much power."
+
+"Interesting," Julian murmured. "You're going to have to tell me more than that if you want meaningful input from me, I'm afraid. Have you fleshed it out more?"
+
+"To a certain degree, yes." Rui nodded. "There are roughly three problems that primarily stand in the way of creating a viable technique that fulfills my conditions for the Sniper Project. The first is the most obvious one; firing an attack over such a large distance requires a lot of accuracy, beyond what should be possible for my affinity and Realm. The second is that environmental factors cause greater deviance across a greater amount of distance, meaning even if I aim correctly, my attack could still veer off course. The third is that at such great distances, moving targets are absolutely hell because the projectile takes longer due to the distance between me and my target. So even if I aim correctly and I account for environmental factors, I could still miss if my target is moving even a little!"
+
+
+
+Chapter 536 Issues
+
+
+
+
+
+The two men stared at each other for a few seconds.
+
+"You laid that out better than I could," Julian sighed. "I hadn't realized your project was that ambitious. Is there a particular reason you have confidence that fulfilling such a project is realistic? I don't mean to be discouraging, but setting extremely unrealistic goals is usually not only a waste of time and energy but also actively counterproductive."
+
+"You're right." Rui nodded. "And to answer your question, yes, I do have a reason."
+
+"Well, let's hear it then."
+
+"The difficulty of overcoming the three problems I just laid out for you lies in the difficulty of processing available accurately and quickly enough to aim in exactly the right direction, to account for environmental factors, to account for the target's movements." Rui diligently explained, before pointing to himself. "I, however, possess a much greater ability to process information systematically in the manner needed to obtain accurate answers quickly, putting aside false modesty."
+
+"I'm not sure I entirely agree with your characterization of the difficulties you just illustrated." Julian frowned. "Accuracy of aim is generally not a mental exercise in the manner that you describe it so much as it is a pure skill. Skilled marksmen do not solve complicated projectile mechanics equations when they fire accurate shots, they simply launch their attacks in exactly the right matter through judgment born out of a combination of talent and a vast amount of experience."
+
+"You're completely right about that." Rui grinned. "However, just because that is the norm, doesn't mean it is a paradigm I need to abide by, especially when I'm better of not doing so."
+
+"So, you're telling me..." Julian looked at him with a hint of skepticism. "You're telling me that you've created a new and superior paradigm for the very concept of long-range accuracy?"
+
+Julian knew that his brother was quite strong, special, and brilliant. But as a scholar with a background in the study of Martial Art, he understood the sheer magnitude of claims that Rui was making at the moment. What he was talking about was nothing short of revolutionary.
+
+"Hear me out, Julian." Rui smiled. "We already know that there are rather simple equations defining the motion of projectiles that are quite easy to understand, correct?"
+
+"To you and me, perhaps, but neither of us is particularly average, are we?" Julian sighed. He wasn't tooting their horns, it was merely an objective fact. "Projectile mechanics is cutting-edge theoretical science, Rui. How did you even come about learning about them when you didn't go to a science university?"
+
+Rui suppressed a snort. Projectile mechanics was extremely elementary physics back on Earth. He had studied it in middle school and more extensively in high school. However, Julian's words allowed him to discover the actual limit of understanding of theoretical physics of the Kandrian Empire. "Oh, you know, I read some of your old books when you were away living at the university."
+
+Julian looked at him with skeptical eyes.
+
+"I'm not lying, okay!"
+
+"If you say so..." Julian shook his head with resignation. "Anyways, you were saying."
+
+"So, as I was saying," Rui explained. "I understand projectile mechanics extremely well, and I'm also capable of systematically and objectively processing information quickly and accurately in the middle of combat. With these two traits, I should be able effectively to calculate my aim, making my accuracy objective rather than relying on skill."
+
+"Even if that was possible, you may not necessarily be able to execute your calculations accurately. It's one thing to calculate exactly with how much force, and at what angle you must launch your attack, it's another thing entirely for your body to precisely and accurately execute those results." Julian astutely pointed out.
+
+"True, that is where the true challenge lies, honestly. I might need to train my hand-eye coordination if I want this technique to work the way it does. But my hand-eye coordination is not a weakness of mine or something, not by any means. As long as I work hard and train my body to execute my calculations accurately, there is a decent chance that my vision for this project will be entirely realized." Rui explained with an excited grin.
+
+"Hm." Julian considered his argument for a moment. "Well, there is a chance, of course. Provided your assumptions about your mental faculties are not inaccurate. I can't think of anything else to offer about this project, I'm afraid. My background doesn't really overlap with this field."
+
+"No worries." Rui friendlily replied. "The fact that it has, at least tentatively, earned your approval is quite a encouraging news. It's a good affirmation that I'm not crazy."
+
+"Oh, I don't know about that." Julian chuckled.
+
+Rui was far removed from normal in many ways that it was sometimes hard to consider him sane. Even if he wasn't insane, he certainly wasn't normal in the head. There were just too many abnormalities that when considered individually, could be written off with his genius-level intellect, talent, or hard work, but when one zoomed out and looked at the big picture, it was truly mind-boggling.
+
+Julian knew this because he had done exactly that, he had even jokingly insinuated that Rui was an adult in a child's body, a long time ago. As time passed, the more accurate that joke seemed to be.Thê sourc𝗲 of this content n/o/v/(𝒆l)bi((n))
+
+Julian shook his head mildly. A joke was a joke.
+
+"What about the final project?" He asked.
+
+"Ah, it's a development project centered around an active defense technique," Rui explained. "I'm trying to create a technique where I transfer all the kinetic energy of an attack to me while ensuring none of it damages me, then I disperse that energy instantaneously, ideally."
+
+"...That's it?"
+
+"So far, yeah."
+
+"That's not a goal, that sounds more like a pipe dream." Julian chuckled. "You need to have a more concrete way of accomplishing what you want instead of just stating as much."
+
+"I know, but it's difficult to form a concrete plan for this one, that's why I wanted you to help me out," Rui explained.
+
+
+
+Chapter 537 Purchase
+
+
+
+
+
+"I can't really help you with that so spontaneously. Besides, if I'm not wrong, the core of your plan probably ought to originate from you to satisfy the condition of individuality." Julian conjectured.
+
+"Hm, true." Rui nodded. "You've given me a lot of food for thought thus far that has been quite illuminating. I suppose that's enough for a single conversation."
+
+"Well, I'm glad I was of some help." Julian smiled. "You should work on fleshing out the plan by doing research on the relevant topics. If one of your projects is unviable for some reason, then it is best to know that as early as possible. You don't want to realize that after having spent six months on the project, do you?"
+
+"Most certainly not, will keep note of that." Rui nodded.
+
+The two of them discussed the matter more in-depth as they visited a variety of topics before their long discussion was finally concluded, or rather interrupted by the calls from dinner by Lashara.
+
+"Well, that has been pretty fulfilling. Thanks again for hearing me out." Rui thanked him as he got up.
+
+"Anytime." Julian smiled.
+
+
+
+
+
+The two headed towards the dinner table together, spending time together with their family for the rest of the night.
+
+The next day, Rui headed towards the Martial Union to purchase the necessary reading material he wanted. Particularly, he was most concerned with learning poison techniques when he possessed a particularly delicate symbiote inside his head.
+
+In comparison, the Sniper and Bounce Projects were much more within Rui's background and understanding. The core mechanics for these two projects were centered around classical mechanics which Rui was intimately familiar with. He needed to look within to figure these two projects out, for the most part.
+
+The same could not be said about the Severer Project.
+
+Perhaps if it was an external symbiote like the kind Apprentice Fernan had, he wouldn't be nearly as concerned, after all those had to be tough, otherwise, they would get destroyed quite easily. Brains, on the other hand, were fragile in every sense possible.
+
+He headed straight toward the Martial support counter. It was a department dedicated to exchanging or selling goods, services, or information that the Martial Union directly owned. This was separate from the utility department which had outlets for various esoteric technology companies. The Martial Union effectively served as a safe reliable middleman that ensured that the Martial Artists weren't exposed or exploited.Finnd 𝒏ew chapters on n𝒐ve/lbi𝒏(.)com
+
+
+
+
+
+"Yes?" A staff member smiled. "How may I help you?"
+
+"I wanted to purchase information regarding the compatibility between poison techniques and symbiotic techniques. Furthermore, I also specifically want all data surrounding the compatibility between the Mindmirror Symbiote and various poisons used in offensive poison techniques." Rui quickly surmised.
+
+"Please provide your license for verification of security clearance." The staff member requested.
+
+The Martial Union did sell information, however, only if the customer in question had the security clearance to access and purchase said information. This was done so that valuable intelligence didn't find itself in the hands of those who simply could not be trusted, or were ineligible for other reasons, with whatever information said customer lacked the security clearance to purchase.
+
+For example, a Martial Apprentice couldn't simply purchase any information surrounding the breakthrough to the Squire Realm because they were ineligible to acquire that information.
+
+"Alright Squire Quarrier, we have verified that you possess the necessary security clearance to purchase the information you seek. Please give us some time to collect all the information you seek before we can quote you a price." She requested. "You can take a seat while you wait."
+
+
+
+
+
+Rui nodded as he took his seat, observing the staff members as they hurriedly left to procure his purchase. Thankfully, it did not take too long.
+
+"Squire Quarrier." She called out to him. "We have procured the information you wished to purchase. The price for all the details adds up to about 5780 Martial credits."
+
+Rui raised an eyebrow at that price as he winced inwardly. That was a little over half the price of a low-grade Squire-level mission. The Martial Union was squeezing him dry!
+
+"You also need to acknowledge and accept certain terms and conditions stipulated by the Martial Union." She said as she pushed forward an acknowledgment form along with a pen toward Rui.
+
+Rui quickly skimmed through it, disinterested.
+
+It was relatively strict, but nothing too extreme. He wasn't allowed to distribute the information he purchased from the Martial Union's authorization and would be held liable for any unauthorized distribution and will be penalized.
+
+
+
+
+
+Rui felt it was understandable that the Martial Union was as restrictive of the information it sold. All of the information that it sold to its customers was acquired via means that required a lot of funding and resources. All technical scientific information was information that had been painstakingly obtained after years of research. Information outside of science was also acquired through the intelligence department which required a massive amount of funding and resources to function adequately.
+
+If the Martial Union allowed its customers to resell information at cheaper prices than the Martial Union, then it would make it an entirely losing business. It at the very least had to break even, otherwise, it was a liability.
+
+Rui simply signed the acknowledgment form as he glanced at the sheer volume of books and documents that the staff had procured.
+
+"Would you like it delivered to a location or would you rather take it on your person?" She asked, smiling.
+
+"I'll take it with me, thanks."
+
+Thankfully, they were neatly packed together making it less inconvenient to carry in person. But still an important task for a normal human.
+
+Rui whistled as he skywalked home with two giant bags filled with scientific literature centered around Martial Art.
+
+"If the answer isn't in here, then it probably isn't anywhere." Rui sighed as he looked down at the books and documents that he was carrying home with hope.
+
+All he could do was pray.
+
+
+
+Chapter 538 Poison
+
+
+
+
+
+"Damn, this isn't looking so optimistic." Rui cursed as he read through a research journal.
+
+He had spent the past week pouring through all the literature on the topic, occasionally consulting Julian when the esoteric scientific jargon went over his head. Turns out Julian was entirely correct when he told Rui that there was a large degree of incompatibility between the field of poison and symbiotes.
+
+One thing he did appreciate was the fact that there was an abundance of research on the topic. This was because a lot of the test subjects that were used to conduct the necessary experiments were actually animals. Since a lot of these symbiotes were able to take root in other animals, the effects of poison-based techniques were easy to observe.
+
+One of the biggest problems Rui had come across was that almost all poison-oriented techniques required the user to actually develop complete immunity to said poison. Such a requirement was almost inevitable, all things considered. After all, how could one integrate poison into the body to use on others if said poison would end up killing them in the first place?
+
+The Mindmirror symbiote was particularly vulnerable since most of its body was brain tissue comprised of neurons that certainly weren't resistant to poison. The only poisons that it was able to develop immunity to were low-grade poisons that weren't lethal.
+
+This meant that whatever poison Rui planned to integrate into his Severer Project had to be a minor poison that couldn't really do active damage to his opponent. He was limited to minor neurotoxins that negatively affected motor control or poisons that affected certain parts of the body. He couldn't for the big shots that could kill even Martial Squires with just the slightest bit of exposure.
+
+('Though that doesn't necessarily too bad.') Rui thought to himself. ('I highly doubt I would have the affinity and the talent to be able to master such poisons in the first place. Poison is supposed to be one of three elements that make the Severer Project a powerful lethal attack. There was also the piercing attack and the friction element to batter the wound.')
+
+He quickly went through each poison that was viable as he made a mental note of all of them in the mind palace. Each of the poisons that were viable had to be such that they did not negatively affect brain tissue directly or indirectly, which most poisons did, which is why they were incompatible with the Mindmirror Brain. He then further shortlisted them as far as actual utility went.𝒂ll new st𝒐ries at n0ve/lbi/𝒏(.)c𝒐m
+
+[Hurndrum Nectar]
+
+This was a poison derived from a special plant that caused a tremendous burning sensation to the applied area of the body that was indistinguishable from the actual sensation of burning. However, it did not actually cause any actual impediments to the functioning of the body. Thus, if the target was able to endure the pain, the poison would not cause any meaningful difference in combat.
+
+The reason that this was considered a low-grade poison was that most Martial Squires had a disproportionately high amount of pain tolerance. After all, every Martial Squire had undergone the mind-crushing hellish torture that was the breakthrough to the Squire Realm. Once one underwent that, almost all other forms of conventional pain were rather trivial in comparison.
+
+[Gangaer drop]
+
+This was another potential candidate that caused necrosis to affected flesh, however, the rate at which it caused necrosis was exceedingly slow, to the degree that it was very unlikely to make much of a difference before the fight ended, and even then, it was not immediately debilitating and healing potions could further slow it down tremendously.
+
+[Serinflow powder]
+
+This was a poison created from the grain of the Serinflow crop. It functioned as an anti-coagulant that prevented wounds from slowing down blood flow through the coagulation of blood. If administered to an open wound, it would cause said wound to continue bleeding without pause. However, pressure on the wound effectively could replace the natural coagulation of the body, thus it wasn't particularly lethal.
+
+This was a poison Rui had the most hope for. This poison would pair really well with the technique he had in mind, the piercing and the friction in his attack would certainly cause a wound that was quite open and exposed, if he could master the Serinflow powder, then every time he successfully landed an attack, he could be certain it would be difficult for his opponent to endure the bleeding wound he had created.
+
+There were a few other candidates as well, and Rui intended to verify his compatibility with all of them before he could have a much clearer idea of how realistic Project Severer was.
+
+He sighed, putting aside the matter for now. "I should work on the other projects as well."
+
+The remaining two projects weren't easy, but he was more comfortable with them since they did not require the comprehension of fields that he did not have a good understanding of. This was especially true for the Sniper Project. Out of all of the three of his projects, the Sniper Project was, in his estimation, the likeliest to succeed. He had fleshed out the technique almost entirely on a conceptual level.
+
+He accessed the model for the technique from his mind palace, going over it once more. The goal of the project was a technique that allowed him accurately extreme long-range attacks that would ordinarily be impossible for a Martial Squire by relying on his ability to process information systematically, swiftly, and accurately.
+
+The three main obstacles to the viability of the technique were the large distance over which he would need to aim accurately, the atmospheric and environmental factors that would influence the trajectory of the attack over such a long distance, and the movements of his target that, over such a large distance, could end up causing a complete miss.
+
+He actually had reasonably viable solutions for all of these problems, and he intended to test them out as soon as he could.
+
+
+
+Chapter 539 Technique Candidates
+
+
+
+
+
+There was only one issue.
+
+('Testing these solutions will require me to master and modify some techniques; new and old.') Rui shook his head with resignation.
+
+It couldn't be helped. The originality of Project Sniper came from its revolutionary concept of relying on a data science approach to improve aim and accuracy instead of pure skill. However, that didn't necessarily mean that every ounce of the technique across all aspects was completely original and something Rui had developed from scratch.
+
+For example, Project Sniper required a projectile firing mechanism to fire projectiles of some sort from a long distance away. However, Rui was not going to create from scratch a brand-new projectile-firing mechanism that the Martial world has never ever seen before. He was going to look at existing super long-range offensive techniques and choose one that was most fit for his needs. Once he mastered said technique, he intended to modify the projectile firing mechanism of the technique to suit Project Sniper.
+
+He had no intention of re-inventing the wheel, he was only going to modify existing wheels to suit his needs.
+
+He also needed to master a technique that gave him much more thorough long-range sensory capabilities. After all, how could he possibly snipe a target away from a great distance away if he could not sense them from a great distance away?
+
+Of course, he did have Seismic Mapping, but Seismic Mapping did not have the detail and precision he was looking for. Furthermore, its accuracy grew worse the further above the ground any given object or person was. Furthermore, it had grown a bit obsolete in the Squire Realm because Martial Squires did not need to touch the ground thanks to Sky Walking.VIssịT n0(v)eL/b(i)(n).𝘤𝑜𝓂 for the best novel reading experience
+
+
+
+
+
+He intended to pick up an aerial sensory technique that would allow him to accurately evaluate atmospheric conditions which he could use to process and make more objective deductions and conclusions. He could only proceed with the rest of the development of the technique after he obtained the necessary sensory prowess needed. After all, any question of whether he could possibly snip people accurately from a great distance away came was meaningless if he could not even perceive his targets properly.
+
+"I can purchase the technique and begin mastering them when I go to the Martial Union to verify my compatibility and tolerance for the poisons I hope to master." Rui nodded. Until that happened, no further progress with the Severer and Sniper Projects could be made.
+
+That left only one project; Project Bounce.
+
+He sighed. This project was the least developed, even on a conceptual level. While he had a somewhat clear idea of how to go about the other two projects, Project Bounce was more difficult.
+
+"Converting incoming attacks into kinetic energy of my own body is not the most difficult part, even if it is difficult. But it's definitely plausible. On the other hand, getting rid of that kinetic energy on the spot instantaneously and completely is quite difficult, I'm not sure how to even go about that." He sighed.
+
+Well, he intended to tackle the first part with suited techniques while he brainstormed a way to handle the second part. He had already given the matter some thought but he could not think of a realistic way to do so at the moment.
+
+
+
+
+
+Rui shook his head, he would cross that bridge when he came across it, he was not going to unnecessarily waste too much time when it was clear that he simply couldn't come up with a solution at the moment.
+
+"Alright, no time to waste." Rui immediately left the Orphanage and headed straight to the Martial Union, arriving within five minutes. He quickly headed towards the Martial support counter.
+
+"Excuse me."
+
+"How may I help you?" The staff member smiled.
+
+"I wish to book poison compatibility tests for these poison-oriented Martial Art techniques." Rui handed her a list with the names of the poisons.
+
+"This... will take a while to arrange, please wait while we arrange the tests you seek." She informed him.
+
+
+
+
+
+"I also wish to visit the Squire-level library," Rui explained. "Please do inform me through the accounter when the process is done."
+
+"Alright, we will be sure to do that."
+
+He immediately headed to the Squire-level library while the Martial Union arranged the tests he was looking for.
+
+"Alrighty then," Rui murmured once he reached. "Where to begin?"
+
+He intended on purchasing a suitable long-range technique, a wide-range aerial sensory technique, a technique that allowed him to intercept attacks elastically if such a thing existed.
+
+He sauntered over to the offense-oriented section of the library, walking over to the long-range portion. Thankfully, the techniques in the library were organized very systematically, making it rather simple and easy to find any particular kind of technique that one was looking for.
+
+
+
+
+
+He skimmed through them as he happened across several interesting techniques.
+
+[Fireball]
+
+This technique was a head-oriented long-range technique that ignited the air through intense pressure while exhaling, causing one to blow out fire.
+
+Rui had seen this technique before, once in the Martial Contest. One of the representatives was a Martial Apprentice with a heat-oriented Martial Art. Her dangerous heat-based techniques had made her a force to be reckoned with.
+
+('This won't work for my purposes, however.') He shook his head.
+
+The requirements he had for his sniping technique was the fact that it needed to be precise and discrete, while also being able to sustain itself over great distances. This technique did the exact opposite. The Fireball technique was not precise or discrete, it affected a broader area before the user, and it most certainly did not have the kind of range that Rui was looking for. While it was an extremely iconic attack across all of fiction, it was not something that Rui could even consider purchasing for the Sniper Project.
+
+He ran across a very familiar technique.
+
+[Tempestual Ripple]
+
+"Hmm..." Rui pondered whether this old technique of his would work or not.
+
+
+
+Chapter 540 Choices
+
+
+
+
+
+It was definitely much more pragmatic and alluring than the previous technique, without a doubt. One of the greatest allures of the technique was the fact that Rui was already intimately familiar with the technique. So much so that he could probably adapt the Apprentice-level version of the technique to the Squire Realm by himself if he wanted.
+
+Furthermore, theoretically, it could have the range he was looking for depending on the shape of the wind attack. If he made a smaller but concentrated attack, it would last much longer than it normally would.
+
+"Hm, I'll consider it." Rui plucked the scroll off the shelf as he continued on with his inspection. There were numerous techniques of all sorts. He saw several techniques that he had run into in the past, such as the arm extension attack. There were many techniques that were also compatible with one particular kind of Martial body.
+
+[Elastic Whip]𝒂ll new st𝒐ries at n0ve/lbi/𝒏(.)c𝒐m
+
+This was a technique that compatible with only the rubber body Martial body. Rui was surprised to see this here considering the last time he saw it was in the hands of a Britannian Martial Squire.
+
+('Then again, I guess most super-nations probably have similar variants of the same technique.') Rui guessed.
+
+He walked past it, there was no point in even considering the technique, considering that he didn't have the right Martial body for it.
+
+
+
+
+
+He continued examining the existing techniques one by one until he ran into something that drew his attention.
+
+[Sonic Bullets]
+
+This was a technique that generated discrete pulses of high-intensity sound that traveled forth at the speed of sound. The sound was generated by a combination of conditioning of the larynx and a specific breathing technique.
+
+Rui's eyebrows rose with interest.
+
+Sound was very persistent in the atmosphere compared to gusts of wind. The reason was simply, while techniques like Tempestual Ripple launched pockets of condensed air through space, sound traveled using the atmosphere as a medium. Techniques like Tempestual Ripple experienced immense resistance from the atmosphere, however, the same wasn't true for sound.
+
+The reason sound had a range limit was only due to a dilution and loss of energy in the ever-expanding wavefront.
+
+
+
+
+
+('However, in a concentrated sound pocket like the Sonic Bullet technique, the dilution of energy would be significantly lesser than a normal sound wave.') Rui realized.
+
+He recalled that another representative in the Martial Contest had employed sound attacks. Her attacks did not have extremely limiting ranges, from what he could tell.
+
+('Furthermore, sound is much harder to detect than wind-based techniques like Tempestuous Ripple.') Rui noted.
+
+This was because sound did not generate any phenomena that could be used to detect its arrival. It was hard to 'perceive' sound before it arrived. It was not the same as physical objects or living organisms that could be detected via light and sound. Sound was used to detect others, but detecting sound itself before it arrived was an extremely difficult task. Rui suspected nothing short of specialized aerial sensory Martial Artists would be able to detect the launching of highly concentrated and compact sound bullets.
+
+This meant that his Sniper Project technique had inadvertently gained an element of stealth to it if he did choose this technique to function as the projectile-firing mechanism of his technique.
+
+('This might just work out perfectly.') Rui felt a surge of excitement.
+
+
+
+
+
+Of course, he had no doubt that he would need to modify the technique before it could truly work out the way he hoped it would. But that was already part of the plan, a necessary inevitability even.
+
+('Alright, I'm going to master this technique even if it kills me!') Rui was extremely determined. He didn't think it would be easy, given that it was a grade-seven technique. He didn't know how good his compatibility with sound-based techniques was. However, as long as he had even decent compatibility with it, enough effort would allow him to obtain sufficient proficiency with the technique.
+
+This was unlike poison where Rui was decisively quite incompatible with them because of the Mindmirror Brain. He had no hard impediments of the sort when it came to mastering sound-oriented techniques.
+
+He plucked the scroll from the shelf as he set back the Tempestuous Ripple scroll. He found it a shame that he wouldn't be remastering an old technique which would certainly occur much quicker than mastering a new technique from scratch.
+
+('Alright, I need to get a long-range aerial sensory technique.') Rui nodded as he immediately headed to the sensory technique section.
+
+This wasn't the first time he had visited this technique, he even recognized many of the techniques, having seen their Apprentice-level equivalents when he shopped to purchase the Seismic Mapping and Primordial Instinct.
+
+
+
+
+
+[All-Seeing Eye]
+
+Rui sighed, recalling the grade-ten sensory technique. It was an extraordinary technique that functioned by the same mechanism that radar did and more. It allowed the user to not only map the environment to a far greater range and quality than his Seismic Mapping did, but it also allowed them to observe their opponent even on a microscopic level. It was a technique in the same tier as Godspeed and Void Step, one that could only be mastered if one had immense affinity and talent.
+
+He shook his head, moving on. He came across several more techniques of various kinds.
+
+[Heat Vision]
+
+This was a technique that functioned through the perception of infrared radiation, allowing the user to perceive through barriers via the heat signatures on the other side of the barriers.
+
+Rui considered it. It could bypass physical barriers which was definitely a desirable trait. He wasn't sure that he could possibly sense targets over a large range very accurately, but it was worth considering. He simply moved on, for now.
+
+[Tempestuous Feel]
+
+This was a technique that functioned by sensitizing the user to sound and fluctuations in air pressure, allowing them to map all objects that came in contact with the atmosphere within a certain range.
+
+('This might work out.') Rui's eyes twinkled with interest as he plucked the scroll from its shelf.
+
+
+
